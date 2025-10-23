@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://BSG5277.github.io//sitemap.xml
+Sitemap: https://bsg5277.github.io//sitemap.xml
